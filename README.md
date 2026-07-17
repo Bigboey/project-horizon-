@@ -1,2 +1,16 @@
-# project-horizon-
-My journey to becoming an AI developer and technology founder.
+# Project Horizon 🚀
+
+Welcome to my journey.
+
+I'm Abdulbasit, an anatomist, writer, entrepreneur, and aspiring technology founder.
+
+This repository documents everything I build as I learn Python, AI, software engineering, and entrepreneurship.
+
+## Goals
+
+- Learn Python
+- Build AI tools
+- Create products that solve real problems
+- Launch a global technology company
+
+This is Day 1.
