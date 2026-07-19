@@ -14,3 +14,8 @@ This repository documents everything I build as I learn Python, AI, software eng
 - Launch a global technology company
 
 This is Day 1.
+## Progress
+
+### Day 2
+- Learned how to use print()
+- Wrote my second Python program
